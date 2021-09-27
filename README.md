@@ -1,1 +1,1 @@
-# terraform-google-gke-basic
+# hashiconf-global-cluster
